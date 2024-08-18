@@ -1,1 +1,1 @@
-# code-prep-gemini-ai-course
+gemini bot
